@@ -6,13 +6,13 @@ body{
 }
 
 #container{
-    width: 70%;
+    width: 70%; 
     padding: 1em;
     text-align: left;
     border: 1px solid #ddd;
-    margin: o auto;
+    margin: o auto; 
 }
 
-#container h1{
+#container_h1{
     font-size: 20px;
 }
