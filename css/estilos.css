@@ -6,9 +6,9 @@ body{
 }
 
 #container{
-    width: 70%; 
+    width: 97%; 
     padding: 1em;
-    text-align: left;
+    text-align: center;
     border: 1px solid #ddd;
     margin: o auto; 
 }
@@ -24,4 +24,8 @@ body{
     margin: 0;
     padding: 0.5 em;
     font-weight: bold;
+}
+
+#img_nasa{
+    width: 380px;
 }
